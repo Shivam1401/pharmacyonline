@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: linear-gradient(to right top, #3df10b, #e6c500, #ff872b, #ff5798, #f671ef);
+}
+
+img {
+  width: 100%;
+  object-fit: contain;
+}
